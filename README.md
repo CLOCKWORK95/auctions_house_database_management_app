@@ -1,5 +1,6 @@
 # AUCTIONS_HOUSE
 Computerised system for an Auctions House.
+
 Realizzazione di un sistema software per la gestione on-line di una casa 
 d’aste. Gli attori del sistema sono di fatto gli utenti stessi, che si suddividono in utenti base ed utenti 
 amministratori. Gli utenti amministratori caricano on-line le aste, gli utenti partecipano alle stesse rilanciando 
